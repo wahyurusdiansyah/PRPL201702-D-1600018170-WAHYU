@@ -29,9 +29,9 @@ $mail->SMTPSecure = 'tls';
 //Whether to use SMTP authentication
 $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = "wahyurusdiansyah70@gmail.com";
+$mail->Username = "yourmail@gmail.com";
 //Password to use for SMTP authentication
-$mail->Password = "M1ftahulhuda";
+$mail->Password = "yourpass";
 //Set who the message is to be sent from
 $mail->From = "HT@noreply.com";
 $mail->FromName = "Hotel Transylvania Admin";
